@@ -1,7 +1,7 @@
 {
-  "hash": "51ae85a3f9bf9e81699b6734a01dcf18",
+  "hash": "98a62faeb423723107d3752fb8e06d23",
   "result": {
-    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Harlow Malloc\"\ndate: \"2022-07-20\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n\n```{.r .cell-code}\nplot(rnorm(100))\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n\n\n\nGeneral test, checking more executable code. \n\n\n::: {.cell}\n\n```{.r .cell-code}\nhist(rnorm(1000))\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-4-1.png){width=672}\n:::\n:::",
+    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Harlow Malloc\"\ndate: \"2022-07-20\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n\n```{.r .cell-code}\nplot(rnorm(100))\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n\n\n\nGeneral test, checking more executable code. \n\n\n::: {.cell}\n\n```{.r .cell-code}\nhist(rnorm(1000))\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-4-1.png){width=672}\n:::\n:::\n\n\nprobably just the fact that the post has code stops it from being rendered even if the change does not affect the code. ",
     "supporting": [
       "index_files"
     ],
