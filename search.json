@@ -4,7 +4,7 @@
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
-    "text": "1+1\n\n[1] 2\n\nplot(rnorm(100))\n\n\n\n\nGeneral test, checking more executable code.\n\nhist(rnorm(1000))"
+    "text": "1+1\n\n[1] 2\n\nplot(rnorm(100))\n\n\n\n\nGeneral test, checking more executable code.\n\nhist(rnorm(1000))\n\n\n\n\nprobably just the fact that the post has code stops it from being rendered even if the change does not affect the code."
   },
   {
     "objectID": "posts/welcome/index.html",
