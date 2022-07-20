@@ -4,7 +4,7 @@
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
-    "text": "1+1\n\n[1] 2"
+    "text": "1+1\n\n[1] 2\n\nplot(rnorm(100))\n\n\n\n\nGeneral test, checking more executable code.\n\nhist(rnorm(1000))"
   },
   {
     "objectID": "posts/welcome/index.html",
