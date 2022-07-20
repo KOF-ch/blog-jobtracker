@@ -21,3 +21,5 @@ General test, checking more executable code.
 ```{r}
 hist(rnorm(1000))
 ```
+
+probably just the fact that the post has code stops it from being rendered even if the change does not affect the code. 
