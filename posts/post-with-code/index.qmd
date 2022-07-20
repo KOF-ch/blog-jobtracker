@@ -16,3 +16,8 @@ plot(rnorm(100))
 ```
 
 
+General test, checking more executable code. 
+
+```{r}
+hist(rnorm(1000))
+```
